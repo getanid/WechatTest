@@ -1,2 +1,2 @@
-# wechatTest
+# WechatTest
 wechat test project
